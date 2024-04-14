@@ -1,2 +1,1 @@
-# Prep-course-henry
-este es un repo de prueba
+este es un prueva d ecomo clonar un repo y conlarlo desde git hub a mi escritorio local
